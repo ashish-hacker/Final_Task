@@ -5,6 +5,7 @@
 First a pretask was given to warmup our brains about the tools I was about to use. The whole project was upon the character Billy.The task I did is eased the work of Billy. In the pretask I Plotted the graph scores vs days using matplotlib and found out the mean, median ,minimum and maximum scores using Numpy.
 
 ### Task 1:
+In this task I manipulated the Data loaded from the *students.csv* file. Here I had to replace all the binary features values like 'yes' or 'no' to 1 and 0 . Because machine takes the numeric value only , no string values.Then I created a column called '*final_grade*' which is the summation of G1, G2, G3. Then I drew a scatter plot between the column '*Studytime*' and the column '*final_grade*'. Then plotted a box plot to analyse the mean of the plots and density.
 
 
 ### Final Task:
