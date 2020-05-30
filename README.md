@@ -37,4 +37,7 @@ Learning the parameters of a prediction function and testing it on the same data
 * Boys score better than girls.
 * Urban Area Students Are Scoring Higher Than Students In Rural Area.
         
-        
+## Whats Coming Next For This Project? 
+
+Ofcourse,Possibilities are infinite.
+But, From my perspective I would like to build a **Chatbot** , Which takes the Data to be predicted categorically and Give output the the predicted outcomes. Also It would let the user see the visualisations and Insights related to the Data.
